@@ -1,3 +1,5 @@
+![](https://cdn.mos.cms.futurecdn.net/X2HayNRX94wPEBtGqg7MJE.jpg)
+
 ## Kaggle Competition: Titanic - Machine Learning from Disaster ##
 
 ### Description: ###

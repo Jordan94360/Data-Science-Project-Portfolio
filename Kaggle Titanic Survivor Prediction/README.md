@@ -10,7 +10,8 @@ This competition provides two datasets of passenger data. One dataset (train) in
 ### Model Results and Leaderboard Ranking ###
 - On training data: **81 - 83%**
 - Competition Submission:  **78.7%**   
-- Competition Ranking: 1,839th out of 14,017 participants
+- Competition Ranking: 1,846th out of 14,017 participants
+<img width="726" alt="titanic_score" src="https://user-images.githubusercontent.com/59478991/147837535-3764f0ac-d340-4130-841d-1bad97300794.png">
 
 ### Methods ###
 - Data Visualization
@@ -29,3 +30,4 @@ This competition provides two datasets of passenger data. One dataset (train) in
 
 ### Status ###
 *Completed*
+

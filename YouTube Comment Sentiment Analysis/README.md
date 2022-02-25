@@ -48,7 +48,7 @@ Below are the key findings from my analysis that answer the two intial questions
     - The top 10 best performing videos all were between 6-13 minutes long or were long form (+30 minutes). (See Plot 21)
     - The date a video is posted doesn't really matter. (See Plot 24)
     - Average watch time for the top 10 videos was 3 mintues even thought the total video length was longer than 3 minutes. (See Plot 25)
-    - Common topics among the top 10 videos included data science projects and ways to learn data science
+    - Common topics among the top 10 videos included data science projects and ways to learn data science. (See Plot 24-28)
 ***
 ## 4. Tools
 

@@ -42,7 +42,7 @@ Below are the key findings from my analysis that answer the two intial questions
     - The majority of comment sentiment is neutral, but is largely more positive than negative. (See Plot 1)
     - None of the best performing videos were ranked in the top 10 videos with high sentiment. (See Plot 3, 5, 19-20)
     - Average sentiment for each video is normally distributed over a medium positive sentiment rating. (See Plot 2)
-    - Sentiment increased progressivly from the first video until September 2020 where it has been on the decline. (See Plot 7)
+    - Sentiment increased progressivly from the first video until September 2020 where it has been on the decline since. (See Plot 7)
 
 - **If sentiment isn't a good predictor of success, then what is?**
     - The top 10 best performing videos all were between 6-13 minutes long or were long form (+30 minutes). (See Plot 21)
